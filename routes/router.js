@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const mongoose = require('mongoose');
-const users = require('../db/db');
+const users = require('../model/db');
 
     // ROUTER HOME
 router.get('/', (req, res) => {
