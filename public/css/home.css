@@ -1,0 +1,12 @@
+main p{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#content li {
+    font-size: 1.2em;
+}
+
+.card a {
+    text-decoration: none;
+}
